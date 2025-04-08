@@ -1,7 +1,7 @@
 # **ATmega328 LED Dice Game**
 
 ## **Project Overview**
-This project designs an **LED dice game** using an **ATmega328** microcontroller. It generates random numbers to simulate a dice roll and controls **6 LEDs** to represent the rolled number visually. The system ensures smooth LED operation and accurate number generation. The final design includes a **PCB layout** to integrate all components while maintaining signal integrity.
+This project designs an **LED dice game** using an **ATmega328** microcontroller. It generates random numbers to simulate a dice roll and controls **7 LEDs** to represent the rolled number visually. The system ensures smooth LED operation and accurate number generation. The final design includes a **PCB layout** to integrate all components while maintaining signal integrity.
 
 ## **Project Diagram**
 ![image](https://github.com/user-attachments/assets/65b1ee79-5b0a-4f62-82c4-f9031fa104a9)
@@ -20,7 +20,7 @@ This project designs an **LED dice game** using an **ATmega328** microcontroller
 - **Components**:
   - **6 LEDs** connected to digital output pins
   - **Push Button** connected with pull-down resistor
-  - **PCB** designed in **Proteus** or **KiCad**
+  - **PCB** designed in **Altium**
 
 ## **How It Works**
 1. User presses the button to simulate rolling the dice.
@@ -37,7 +37,7 @@ This project designs an **LED dice game** using an **ATmega328** microcontroller
 
 ## **Setup & Usage**
 1. **Hardware**:
-   - Connect **6 LEDs** to output pins of **ATmega328**.
+   - Connect **7 LEDs** to output pins of **ATmega328**.
    - Wire a **push button** to a digital input pin with appropriate debounce handling.
    - Upload the code using **Microchip Studio** or Arduino-compatible programmer.
 2. **Software**:
