@@ -3,8 +3,11 @@
 ## **Project Overview**
 This project designs an **LED dice game** using an **ATmega328** microcontroller. It generates random numbers to simulate a dice roll and controls **7 LEDs** to represent the rolled number visually. The system ensures smooth LED operation and accurate number generation. The final design includes a **PCB layout** to integrate all components while maintaining signal integrity.
 
-## **Project Diagram**
+## **Project Schematic**
 ![image](https://github.com/user-attachments/assets/65b1ee79-5b0a-4f62-82c4-f9031fa104a9)
+## **PCB LAYOUT**
+![image](https://github.com/user-attachments/assets/a133b77e-eec2-406e-a6af-a05723650ba2)
+
 
 
 ## **Features**
